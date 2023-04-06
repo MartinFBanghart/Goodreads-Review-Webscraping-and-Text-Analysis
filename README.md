@@ -6,5 +6,5 @@ The dataset stems from the Top 100 books picked by Times magazine on goodreads.c
 
 The scraper is built within python utilizing the libraries Selenium and BeautifulSoup. After retrieval, all data is saved and loaded into flat files and preprocessed. Transformations are then applied to vectorize the review text data for implementation within ML models to identify spam reviews. After determining a sufficient model, flagged reviews are cleaned from the final dataset and pushed for uploading into the database.
 
-OntoText Refine is used for conversion to a graphical structure. The database of choice for graphical representation of the data is GraphDB.
+The database of choice for graphical representation of the data is Arango
 
