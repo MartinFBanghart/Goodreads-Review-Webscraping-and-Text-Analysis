@@ -1,7 +1,7 @@
 # Text-Classification
 Using ML and NLP techniques, text classification is conducted in this notebook to identify relevant reviews from a book review dataset. Kindly note that the ML model is trained using a sample dataset consisting of the first 30 reviews from three books (total 87 datapoints, excluding null values). During the exercise, two models are developed: a semi-supervised SelfTrainingClassifier and a supervised SVC.
 
-The selected model from the two models is saved as "spam_detector.joblib" and can be loaded/imported for future use.
+The selected model is then saved as "spam_detector.joblib" and can be loaded/imported for future use.
 
 For effective task execution of the spam detector, it is required to import model_dependency_script into your local machine as it contains libraries and user-defined-functions on which the machine learning model depends.
 
