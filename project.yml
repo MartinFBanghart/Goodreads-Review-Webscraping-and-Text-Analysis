@@ -1,0 +1,23 @@
+name: Goodreads_Reviews_Analysis
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - re
+  - time
+  - datetime
+  - random
+  - matplotlib.pyplot
+  - sklearn
+  - json
+  - arango
+  - bs4
+  - selenium
+  - urllib
+  - nltk
+  - requests
+  - IPython.display
+  - pyarrow
+  - googletrans
+  - langdetect
+  - joblib
