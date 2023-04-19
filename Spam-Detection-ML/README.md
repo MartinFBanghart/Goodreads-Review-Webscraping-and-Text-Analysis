@@ -7,12 +7,13 @@ For effective task execution of the spam detector, it is required to import mode
 
 **Kindly note that:** the **model_dependency_script.py** should be downloaded and situated in the same directory as **spam_detector.joblib** for successful import.
 
-**How to Use**
 
-**from** model_dependency_script **import** text_preprocessing, sparse_to_dense**
+## How to Use
+
+**from** model_dependency_script **import** text_preprocessing, sparse_to_dense
 
 **import** joblib
 
-**model = joblib.load(model_path_on_local_machine)**
+**model = joblib.load(model_path_on_local_machine/spam_detector.joblib)**
 
 **model.predict(text)**
