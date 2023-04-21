@@ -18,6 +18,6 @@ dependencies:
   - requests
   - IPython.display
   - pyarrow
-  - googletrans
+  - googletrans==3.1.0a0
   - langdetect
   - joblib
