@@ -8,3 +8,6 @@ The scraper is built within python utilizing the libraries Beautiful and Seleniu
 
 In order to accurately examine the relationship between reviews and ratings, a Spam detector is developed using NLP and Machine Learning Techniques to indentify and filter out irrelevant reviews, whose presence in the dataset may affect the accuracy of our results. Once these irrelevant reviews are filtered, exploratory analysis is performed using AQL to query the database and statistical tests to assess the significance our results.
 
+## Important things to note:
+1. After webscraping, the retrieved data is stored in a google drive which can been accessed using the link below:
+https://drive.google.com/drive/u/0/folders/1VNimPMww-vFTifWgD_pu4uSD6tB9YomN
