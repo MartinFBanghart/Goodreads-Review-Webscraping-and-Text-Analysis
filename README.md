@@ -1,6 +1,6 @@
 # Goodreads-Review-Webscraping-and-Text-Analysis
 
-This project takes webscraped data from https://www.goodreads.com/ to create a dataset for the purpose of exploring the relationship between reviewer's ratings of books and reviews.
+This project takes webscraped data from https://www.goodreads.com/ to create a dataset for the purpose of exploring the relationship between book ratings by reviewers and their reviews.
 
 The dataset stems from the Top 100 books selected by Times magazine on goodreads.com (https://www.goodreads.com/list/show/2681.Time_Magazine_s_All_Time_100_Novels).
 
