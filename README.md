@@ -11,3 +11,5 @@ In order to accurately examine the relationship between reviews and ratings, a S
 ## Important things to note:
 1. After webscraping, the retrieved data is stored in a google drive which can been accessed using the link below:
 https://drive.google.com/drive/u/0/folders/1VNimPMww-vFTifWgD_pu4uSD6tB9YomN
+
+2. Project Presentation: https://docs.google.com/presentation/d/1CMPGd_kX7uDETnS3w82kh-ErDBe0t0rstJUeu810DEM/edit#slide=id.p
