@@ -45,6 +45,10 @@ For effective task execution of the spam detector, it is required to import mode
 - Most occurring bigrams contain words that are associated with the contents, characters and authors of the books being reviewed.
 - The length of reviews and the extent to which reviewers express themselves are independent of their book rating.
 
+## Collaborators:
+- Mobolaji Shobanke
+- Martin Banghart
+
 
 
 
