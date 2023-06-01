@@ -1,6 +1,6 @@
 # Goodreads-Review-Webscraping-and-Text-Analysis
-## Introduction
 
+## Introduction
 This project focuses on conducting an end-to-end analysis of the relationship between book ratings and customer reviews. To achieve this, Python webscraping techniques and regex are employed to extract data from the website https://www.goodreads.com/. The dataset stems from the Top 100 books picked by Times magazine on goodreads.com (https://www.goodreads.com/list/show/2681.Time_Magazine_s_All_Time_100_Novels).Afterwhich,the extracted data is then stored in a graph database called ArangoDB. In order to accurately explore the underlying correlation between book ratings and customer reviews, it is important to identify and filter out non-meaningful reviews as they could potentially influence our results. To aid this process, a text classification pipeline is developed using ML and NLP techniques. After determining a sufficient model, flagged reviews are cleaned from the final dataset and pushed for uploading into the database.
 
 ## Data Extraction
